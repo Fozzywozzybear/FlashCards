@@ -1,4 +1,4 @@
-## flashofthecards
+## FlashOfTheCards
 
 ## Lab 1
 
